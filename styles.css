@@ -198,7 +198,7 @@ body {
 
 .card-holder {
     max-width: 460px;
-    margin: 124px auto;
+    margin: 248px auto;
     display: flex;
     flex-direction: column;
     background-color: var(--white);
